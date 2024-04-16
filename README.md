@@ -1,5 +1,3 @@
-# pocket-pingpong
-
 ### short description of vision
 
 have a laserprojector with programmable x-y achsis and reflexionsensor and mount it under ceiling.
