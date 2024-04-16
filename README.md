@@ -14,3 +14,5 @@ needed:
  - light sensor
  - arduino
 
+setup [email dns](https://www.godaddy.com/resources/skills/configuring-dns-for-email-a-quick-beginners-guide)
+
