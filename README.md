@@ -1,7 +1,7 @@
 ### short description of vision
 
-have a laserprojector with programmable x-y achsis and reflexionsensor and mount it under ceiling.
-stick a reflector on your shoes and kick a ball to the next player.
+have a laserprojector with programmable x-y achsis and camera next to laser and mount it under ceiling.
+recognize shoes and kick the ball to the next player.
 sell this to pubs, schools, companies and partyorganizers.
 
 ## lets start ...
