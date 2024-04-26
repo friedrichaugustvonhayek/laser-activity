@@ -6,13 +6,10 @@ sell this to pubs, schools, companies and partyorganizers.
 
 ## lets start ...
 
-### detect laser reflexion
+### detect foot movement speed, direction and laser colision with foot
 
 needed:
- - laserpointer
- - alufoil
- - light sensor
- - arduino
+ - opencv
 
 setup [email dns](https://www.godaddy.com/resources/skills/configuring-dns-for-email-a-quick-beginners-guide)
 
