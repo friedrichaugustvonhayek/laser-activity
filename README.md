@@ -13,5 +13,10 @@ website is at https://laser-activity.com/, request usesraccount and edit it.
 needed:
  - opencv
 
+### draw laser circle
+
+maybe just use a flashlight. then calculate direction of light acording to kick of foot.
+
+
 setup [email dns](https://www.godaddy.com/resources/skills/configuring-dns-for-email-a-quick-beginners-guide)
 
